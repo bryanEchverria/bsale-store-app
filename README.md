@@ -1,0 +1,1 @@
+# bsale-store-app
